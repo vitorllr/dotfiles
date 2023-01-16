@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vitorlopeslrocha@gmail.com
+	name = Vitor Rocha
